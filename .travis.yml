@@ -3,5 +3,6 @@
       - "3.5"
 
   script: 
-    - py.test coveralls/test_rpn.py
+    - py.test 
+
 
